@@ -2,13 +2,13 @@
 
 ## 📌 Project Overview
 
-This project aims to explore the realm of music recommendation systems and genre classification models by analyzing the [Million Song Dataset (MSD)] (http://millionsongdataset.com/). 
+This project aims to explore the realm of music recommendation systems and genre classification models by analyzing the [Million Song Dataset (MSD)](http://millionsongdataset.com/). 
 
 This dataset, a significant resource in music data analysis, originated from an ambitious project under The Echo Nest, which was a research spin-off from the MIT Media Lab established with the goal of understanding the audio and textual content of recorded music. The Echo Nest's decade-long research culminated in its acquisition by Spotify for 50 million Euros, highlighting its profound impact. 
 
-The Million Song Dataset also contains other datasets contributed by organisations and the community, of which 2 are important for this project: the [MSD All Music Genre Dataset (MAGD)] (https://www.ifs.tuwien.ac.at/mir/msd/) (containing songs and their genre labels) and the [Taste Profile Dataset](http://millionsongdataset.com/tasteprofile/) (containing user-song-plays).
+The Million Song Dataset also contains other datasets contributed by organisations and the community, of which 2 are important for this project: the [MSD All Music Genre Dataset (MAGD)](https://www.ifs.tuwien.ac.at/mir/msd/) (containing songs and their genre labels) and the [Taste Profile Dataset](http://millionsongdataset.com/tasteprofile/) (containing user-song-plays).
 
-Read more about the project on my [Portfolio] (https://sites.google.com/view/yamika/song-recommendations-genre-classification).
+Read more about the project on my [Portfolio](https://sites.google.com/view/yamika/song-recommendations-genre-classification).
 
 
 ## ⚙️ Methodology
